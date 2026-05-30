@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdpdate",
+        "uuid": 19292160,
+        "checksum": "xe2ko"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
